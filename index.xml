@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KingRO Enterprises</title>
-    <link>/</link>
+    <link>https://pushpakpro.github.io/KingRO/</link>
     <description>Recent content on KingRO Enterprises</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pushpakpro.github.io/KingRO/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commercial RO Systems</title>
-      <link>/products/commercial-ro-systems/</link>
+      <link>https://pushpakpro.github.io/KingRO/products/commercial-ro-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/products/commercial-ro-systems/</guid>
+      <guid>https://pushpakpro.github.io/KingRO/products/commercial-ro-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domestic RO Systems</title>
-      <link>/products/domestic-ro-systems/</link>
+      <link>https://pushpakpro.github.io/KingRO/products/domestic-ro-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/products/domestic-ro-systems/</guid>
+      <guid>https://pushpakpro.github.io/KingRO/products/domestic-ro-systems/</guid>
       <description></description>
     </item>
     
